@@ -15,7 +15,7 @@
   
 }
 
-
+/* 
 .numbers:nth-child(odd) {
   background-color: black;
   color: white;
@@ -53,7 +53,7 @@
     padding-left: 35px;
     padding-right: 35px;
     
-}
+} */
 
 
 .second-column {
@@ -67,7 +67,7 @@
   padding-right: 0px;
   padding-left: 60px;
 }
-
+/* 
 .third-column .numbers:nth-child(6){
 background-color: #5b5bad;
 }
@@ -75,4 +75,4 @@ background-color: #5b5bad;
 
 .third-column .numbers:nth-child(5){
 background-color: black;
-}
+} */
